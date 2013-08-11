@@ -1,0 +1,1 @@
+{"name":"Keuzenkamp MageSpecial","tagline":"Nederlandstalige fork van MagePlus met eigen aanpassingen","body":"### Keuzenkamp MageSpecial\r\n```\r\n$ cd public_html/[basedir]\r\n$ git clone git@github.com:keuzenkamp/mageplus.git\r\n$ run magento install\r\n```","google":"UA-43110167-1","note":"Don't delete this file! It's used internally to help with page regeneration."}
